@@ -21,3 +21,5 @@
 ## 🏗️ 架构设计
 
 ### 三层架构（原创设计）
+![GitHub License](https://img.shields.io/github/license/你的GitHub用户名/DaoLang?label=许可证&color=blue)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/你的GitHub用户名/DaoLang?label=最后更新)
