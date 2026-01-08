@@ -1,25 +1,18 @@
 # 🧘 DaoLang - 道编程语言
 
-<div align="center">
+![GitHub License](https://img.shields.io/github/license/你的用户名/DaoLang?label=许可证&color=blue)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/你的用户名/DaoLang?label=最后更新)
 
-![道家编程](https://img.shields.io/badge/道家-编程-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-green)
-![状态](https://img.shields.io/badge/状态-已开发完成-success)
-![保护](https://img.shields.io/badge/知识产权-受保护-important)
+> **全球首个将道家哲学（阴阳、太极、无极）深度融入代码验证与分析的元编程框架。**
 
-**首个将道家哲学深度融入编程的智能系统**
+## ✨ 核心特性
+- **🧠 道法智能验证**：通过`@verify`装饰器，为任何函数注入哲学属性验证能力。
+- **📜 智能解释生成**：基于《道德经》等典籍，为代码行为生成富含哲理的自然语言解释。
+- **⚛️ 符号证明集成**：自动证明函数的“阴阳对称性”、“太极恒等性”等抽象属性。
+- **🏗️ 非侵入式架构**：用户业务代码零修改，通过装饰器与接口即可获得全部能力。
 
-[架构设计](#-架构设计) | [核心创新](#-核心创新) | [原创证明](#-原创证明)
-
-</div>
-
-## 🎯 项目概述
-**道家元编程系统**是一个突破性的编程框架，首次将道家哲学核心概念（阴阳、太极、无极）系统性地应用于代码验证、分析和解释。
-
-> ⚠️ **知识产权声明**：核心算法受专利保护，本仓库仅展示系统架构和设计理念。
-
-## 🏗️ 架构设计
-
-### 三层架构（原创设计）
-![GitHub License](https://img.shields.io/github/license/你的GitHub用户名/DaoLang?label=许可证&color=blue)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/你的GitHub用户名/DaoLang?label=最后更新)
+## 🚀 快速开始
+本仓库为**公开架构版本**，完整呈现设计理念、接口规范与使用范式。核心算法实现受知识产权保护。
+```bash
+# 查看架构演示
+python demos/demo_showcase.py
